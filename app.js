@@ -73,7 +73,7 @@ function renderReader() {
     <p class="summary">${report.summary}</p>
     <p class="section-label">三条关键信号</p>
     <div class="insights">${insights.map((insight, index) => `<div class="insight"><span class="insight-index">0${index + 1}</span><span>${insight}</span></div>`).join("")}</div>
-    <div class="reader-actions"><a class="primary-action" href="${report.url}" target="_blank" rel="noreferrer">打开飞书完整报告 ↗</a><a class="secondary-action" href="#filters">切换报告分类</a></div>`;
+    <div class="reader-actions"><a class="primary-action" href="${report.url}" target="_blank" rel="noreferrer">打开飞书完整报告 ↗</a></div>`;
 }
 
 function renderOverview() {
