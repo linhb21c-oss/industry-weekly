@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#08111f" />
+    <title>行业动态 | 周度情报看板</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">WEEKLY INTELLIGENCE</p>
+          <h1>行业周刊</h1>
+        </div>
+        <div class="brand-meta">
+          <img class="company-logo" src="assets/newland-logo.svg" alt="新大陆科技集团" />
+          <div class="sync-status">
+            <span class="pulse"></span>
+            <span id="sync-date">同步中</span>
+            <span class="separator">·</span>
+            <span>来源：飞书 Aily</span>
+            <span class="separator">·</span>
+            <span>制作：林海波</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="overview" aria-label="本周概览">
+        <div class="week-label">
+          <span>当前焦点</span>
+          <strong>第 28 周</strong>
+          <small>7.6 — 7.12</small>
+        </div>
+        <div class="signal"><span id="archive-total" class="signal-number">—</span><span>已归档报告</span></div>
+        <div class="focus-card">
+          <span>本周洞察</span>
+          <div id="weekly-signals" class="weekly-signals"></div>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <aside class="library" aria-label="报告库">
+          <div class="library-heading">
+            <div>
+              <p class="eyebrow">REPORT LIBRARY</p>
+              <h2>按时间浏览</h2>
+            </div>
+            <span id="report-count" class="report-count"></span>
+          </div>
+          <div id="filters" class="filters" aria-label="报告分类筛选"></div>
+          <div id="timeline" class="timeline" aria-live="polite"></div>
+        </aside>
+
+        <article id="reader" class="reader" aria-label="报告摘要"></article>
+      </section>
+    </main>
+
+    <template id="report-template">
+      <button class="report-card" type="button">
+        <span class="category"></span>
+        <strong class="card-title"></strong>
+        <span class="period"></span>
+      </button>
+    </template>
+    <script src="data/reports.js"></script>
+    <script src="data/report-details.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
