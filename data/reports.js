@@ -1,51 +1,6 @@
 window.REPORTS = 
 [
   {
-    "id": "TvSXduwiBohvSJx7uVucnCVTnFb",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊（2026年7月第3周 / 7.13-7.19）",
-    "period": "2026-07-20",
-    "publishedAt": "2026-07-20",
-    "url": "https://my.feishu.cn/docx/TvSXduwiBohvSJx7uVucnCVTnFb#doxcnd5dKSSmALQhyqIsSpiHBCh",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
-    "id": "QbbedV5nYohx8txN9cicX0lyngd",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年中更新版）",
-    "period": "2026-07-20",
-    "publishedAt": "2026-07-20",
-    "url": "https://my.feishu.cn/docx/QbbedV5nYohx8txN9cicX0lyngd#doxcn7p6lkpOWVQM9RqKU4BcNSb",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
-    "id": "Mh3Bdd9kroaP00xTY7ncdloBnKh",
-    "category": "友商动态",
-    "title": "友商动态报告（2026年7月13日-7月20日）",
-    "period": "2026-07-20",
-    "publishedAt": "2026-07-20",
-    "url": "https://my.feishu.cn/docx/Mh3Bdd9kroaP00xTY7ncdloBnKh#doxcnsCrmDwey39b9ZcfphY4C4d",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
-    "id": "HglTdr9ErorG7MxvQsycKTYsnUd",
-    "category": "电信运营商集中化信息更新",
-    "title": "2026年电信运营商集中化集约化信息更新",
-    "period": "2026-07-20",
-    "publishedAt": "2026-07-20",
-    "url": "https://my.feishu.cn/docx/HglTdr9ErorG7MxvQsycKTYsnUd#doxcnJJd2zv58mEVQBw89nCTGTc",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
-    "id": "COZ6dZbQqoeNXWxvXxqc3JNhnLc",
-    "category": "友商动态",
-    "title": "2026年7月6日至12日友商动态报告",
-    "period": "2026-07-13",
-    "publishedAt": "2026-07-15",
-    "url": "https://my.feishu.cn/docx/COZ6dZbQqoeNXWxvXxqc3JNhnLc#doxcnwCSrf9NkQ61gXEn2O5PcOd",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
     "id": "Sa7Yd9qj4ocU1zxdVRYcfU6Qnpg",
     "category": "电信运营商集中化信息更新",
     "title": "2026年电信运营商集中化/集约化信息更新报告",
@@ -79,6 +34,15 @@ window.REPORTS =
     "period": "2026-07-13",
     "publishedAt": "2026-07-13",
     "url": "https://my.feishu.cn/docx/IJ3xd0cLJopaj1xF8VHcUGqvnMd#doxcn4xB5IgiDQuL1trT7iBGNJe",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+  },
+  {
+    "id": "COZ6dZbQqoeNXWxvXxqc3JNhnLc",
+    "category": "友商动态",
+    "title": "2026年7月6日至12日友商动态报告",
+    "period": "2026-07-13",
+    "publishedAt": "2026-07-13",
+    "url": "https://my.feishu.cn/docx/COZ6dZbQqoeNXWxvXxqc3JNhnLc#doxcnwCSrf9NkQ61gXEn2O5PcOd",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。"
   },
   {
