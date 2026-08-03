@@ -18,6 +18,11 @@ h2 { margin-bottom: 0; font-size: 21px; letter-spacing: -.03em; }
 .sync-status { display: flex; align-items: center; gap: 9px; color: #a7bad3; font-size: 13px; }
 .brand-meta { display: grid; justify-items: end; gap: 10px; }
 .company-logo { width: 132px; height: auto; }
+.sync-button { border: 1px solid #477494; border-radius: 7px; padding: 8px 12px; color: #d5ebff; background: #0d2740; font-size: 13px; font-weight: 700; cursor: pointer; }
+.sync-button:hover:not(:disabled) { border-color: #8ecdf5; background: #143854; }
+.sync-button:disabled { cursor: wait; opacity: .72; }
+.sync-feedback { margin: -3px 0 0; color: #a7bad3; font-size: 12px; }
+.sync-feedback.error { color: #ff9f9f; }
 .pulse { width: 8px; height: 8px; border-radius: 50%; background: #4ae19a; box-shadow: 0 0 0 5px #4ae19a18; }
 .separator { color: #49627f; }
 .overview { grid-template-columns: 230px 145px minmax(0, 1fr); gap: 1px; overflow: hidden; border: 1px solid #29435f; border-radius: 17px; background: #29435f; }

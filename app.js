@@ -9,6 +9,8 @@ const timeline = document.querySelector("#timeline");
 const reader = document.querySelector("#reader");
 const count = document.querySelector("#report-count");
 const template = document.querySelector("#report-template");
+const manualSyncButton = document.querySelector("#manual-sync");
+const syncFeedback = document.querySelector("#sync-feedback");
 const categorySignals = {
   "电信运营商集中化信息更新": { label: "运营商", text: "算力与智能网络投入继续上升；集中化 BOSS 正从平台整合转向数据、AI 驱动的运营中枢。" },
   "行业周刊": { label: "行业", text: "大模型竞争转向成本效率和商业化；存储供给偏紧，自动驾驶进入标准与合规阶段。" },
@@ -87,4 +89,78 @@ function renderOverview() {
 }
 
 function render() { renderOverview(); renderFilters(); renderTimeline(); renderReader(); }
+
+function setManualSyncState(state) {
+  if (state.running) {
+    manualSyncButton.disabled = true;
+    manualSyncButton.textContent = "同步中...";
+    syncFeedback.hidden = false;
+    syncFeedback.className = "sync-feedback";
+    syncFeedback.textContent = "正在获取飞书报告";
+    return;
+  }
+
+  manualSyncButton.disabled = false;
+  if (state.lastExitCode && state.lastExitCode !== 0) {
+    manualSyncButton.textContent = "同步失败，重试";
+    syncFeedback.hidden = false;
+    syncFeedback.className = "sync-feedback error";
+    syncFeedback.textContent = "同步失败，请重试";
+    return;
+  }
+
+  manualSyncButton.textContent = "手工同步";
+  syncFeedback.hidden = true;
+}
+
+async function syncStatus() {
+  const response = await fetch("/api/sync", { cache: "no-store" });
+  if (!response.ok) throw new Error("无法获取同步状态");
+  return response.json();
+}
+
+async function monitorManualSync() {
+  try {
+    const state = await syncStatus();
+    setManualSyncState(state);
+    if (state.running) {
+      window.setTimeout(monitorManualSync, 2000);
+    } else if (state.lastExitCode === 0 && state.finishedAt) {
+      window.location.reload();
+    }
+  } catch {
+    manualSyncButton.disabled = false;
+    manualSyncButton.textContent = "同步状态不可用";
+    syncFeedback.hidden = false;
+    syncFeedback.className = "sync-feedback error";
+    syncFeedback.textContent = "同步状态不可用，请重试";
+  }
+}
+
+manualSyncButton?.addEventListener("click", async () => {
+  manualSyncButton.disabled = true;
+  manualSyncButton.textContent = "同步中...";
+  syncFeedback.hidden = false;
+  syncFeedback.className = "sync-feedback";
+  syncFeedback.textContent = "正在获取飞书报告";
+  try {
+    const response = await fetch("/api/sync", { method: "POST" });
+    if (!response.ok) throw new Error("无法启动同步");
+    monitorManualSync();
+  } catch {
+    manualSyncButton.disabled = false;
+    manualSyncButton.textContent = "同步失败，重试";
+    syncFeedback.hidden = false;
+    syncFeedback.className = "sync-feedback error";
+    syncFeedback.textContent = "同步失败，请重试";
+  }
+});
+
+syncStatus().then((state) => {
+  manualSyncButton.hidden = false;
+  setManualSyncState(state);
+}).catch(() => {
+  manualSyncButton.hidden = true;
+});
+
 render();
