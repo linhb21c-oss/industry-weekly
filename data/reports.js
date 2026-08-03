@@ -1,14 +1,24 @@
 window.REPORTS = 
 [
   {
-    "id": "JF26dn3LKo6lJ1xQPS0c5Huhn7O",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年8月更新版）",
+    "id": "FIe9doi47omh12xQkG7cWC0UnYg",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊 · 第31期 | 2026.07.27–08.02",
     "period": "2026-08-03",
     "publishedAt": "2026-08-03",
-    "url": "https://my.feishu.cn/docx/JF26dn3LKo6lJ1xQPS0c5Huhn7O",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-08-03"
+    "updatedAt": "2026-08-03T09:08:44+08:00",
+    "url": "https://my.feishu.cn/docx/FIe9doi47omh12xQkG7cWC0UnYg",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+  },
+  {
+    "id": "FLlIddP0voIMngxkvfVcokWLn9f",
+    "category": "电信运营商集中化信息更新",
+    "title": "2026年电信运营商集中化/集约化发展报告",
+    "period": "2026-08-03",
+    "publishedAt": "2026-08-03",
+    "updatedAt": "2026-08-03T09:06:29+08:00",
+    "url": "https://my.feishu.cn/docx/FLlIddP0voIMngxkvfVcokWLn9f",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
   },
   {
     "id": "MgTAdnavyo3074x2NV0cJx1enTd",
@@ -21,24 +31,14 @@ window.REPORTS =
     "updatedAt": "2026-08-03"
   },
   {
-    "id": "MIZ6dO30tox6vux3e6Vco13Qn4d",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊（2026.07.27 - 08.02）",
-    "period": "2026-08-03",
-    "publishedAt": "2026-08-03",
-    "url": "https://my.feishu.cn/docx/MIZ6dO30tox6vux3e6Vco13Qn4d",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-08-03"
-  },
-  {
-    "id": "F3ZmdXmpPoUPhgxZ9FucFg8en8n",
+    "id": "EiLtdCl3NoWUAwxvUvucJhrZnSb",
     "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年7月更新版）",
+    "title": "2026年电信运营商集中化/集约化信息更新报告",
     "period": "2026-07-27",
     "publishedAt": "2026-07-27",
-    "url": "https://my.feishu.cn/docx/F3ZmdXmpPoUPhgxZ9FucFg8en8n",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-07-27"
+    "updatedAt": "2026-07-27T18:02:53+08:00",
+    "url": "https://my.feishu.cn/docx/EiLtdCl3NoWUAwxvUvucJhrZnSb",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
   },
   {
     "id": "B3gHdvtHPonLB6xLA55cYQUInge",
