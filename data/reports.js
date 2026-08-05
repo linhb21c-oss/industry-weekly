@@ -31,14 +31,14 @@ window.REPORTS =
     "updatedAt": "2026-08-03"
   },
   {
-    "id": "EiLtdCl3NoWUAwxvUvucJhrZnSb",
+    "id": "F3ZmdXmpPoUPhgxZ9FucFg8en8n",
     "category": "电信运营商集中化信息更新",
-    "title": "2026年电信运营商集中化/集约化信息更新报告",
+    "title": "电信运营商集中化全景分析（2026年7月更新版）",
     "period": "2026-07-27",
     "publishedAt": "2026-07-27",
-    "updatedAt": "2026-07-27T18:02:53+08:00",
-    "url": "https://my.feishu.cn/docx/EiLtdCl3NoWUAwxvUvucJhrZnSb",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+    "url": "https://my.feishu.cn/docx/F3ZmdXmpPoUPhgxZ9FucFg8en8n",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-07-27"
   },
   {
     "id": "B3gHdvtHPonLB6xLA55cYQUInge",
