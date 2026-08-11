@@ -26,7 +26,7 @@ h2 { margin-bottom: 0; font-size: 21px; letter-spacing: -.03em; }
 .sync-feedback.error { color: #ff9f9f; }
 .pulse { width: 8px; height: 8px; border-radius: 50%; background: #4ae19a; box-shadow: 0 0 0 5px #4ae19a18; }
 .separator { color: #49627f; }
-.overview { grid-template-columns: 230px 145px minmax(0, 1fr); gap: 1px; overflow: hidden; border: 1px solid #29435f; border-radius: 17px; background: #29435f; }
+.overview { grid-template-columns: 145px minmax(0, 1fr); gap: 1px; overflow: hidden; border: 1px solid #29435f; border-radius: 17px; background: #29435f; }
 .overview > * { min-height: 142px; padding: 22px; background: #0c1929; }
 .week-label span, .focus-card > span { display: block; color: #91acd0; font-size: 12px; }
 .week-label strong { display: block; margin: 7px 0 2px; font-size: 27px; letter-spacing: -.04em; }
@@ -61,7 +61,7 @@ h2 { margin-bottom: 0; font-size: 21px; letter-spacing: -.03em; }
 .reader > * { position: relative; z-index: 1; }
 .reader-meta { display: flex; gap: 9px; align-items: center; color: #83a3c4; font-size: 12px; }
 .tag { border: 1px solid #3878b6; border-radius: 999px; padding: 4px 8px; color: #98ceff; background: #15385a; font-size: 11px; font-weight: 700; }
-.reader h2 { max-width: 800px; margin: 22px 0 10px; font-size: clamp(26px, 3vw, 40px); line-height: 1.15; }
+.reader h2 { max-width: none; margin: 22px 0 10px; font-size: clamp(24px, 2.15vw, 34px); line-height: 1.18; }
 .summary { max-width: 780px; color: #aebfd3; font-size: 16px; line-height: 1.7; }
 .section-label { margin: 35px 0 13px; color: #80a9d5; font-size: 11px; font-weight: 700; letter-spacing: .12em; }
 .insights { display: grid; gap: 9px; max-width: 830px; }

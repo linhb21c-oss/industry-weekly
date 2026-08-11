@@ -22,26 +22,6 @@ function formatDate(date) {
   return new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric" }).format(new Date(`${date}T00:00:00`));
 }
 
-function mondayOfWeek(date) {
-  const monday = new Date(date);
-  const day = (monday.getDay() + 6) % 7;
-  monday.setDate(monday.getDate() - day);
-  monday.setHours(0, 0, 0, 0);
-  return monday;
-}
-
-function isoWeekNumber(date) {
-  const target = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
-  const day = target.getUTCDay() || 7;
-  target.setUTCDate(target.getUTCDate() + 4 - day);
-  const yearStart = new Date(Date.UTC(target.getUTCFullYear(), 0, 1));
-  return Math.ceil((((target - yearStart) / 86400000) + 1) / 7);
-}
-
-function shortDate(date) {
-  return `${date.getMonth() + 1}.${date.getDate()}`;
-}
-
 function visibleReports() {
   return reports.filter((report) => activeCategory === "全部" || report.category === activeCategory);
 }
@@ -100,11 +80,6 @@ function renderReader() {
 
 function renderOverview() {
   const latest = reports[0]?.publishedAt;
-  const currentMonday = mondayOfWeek(new Date());
-  const currentSunday = new Date(currentMonday);
-  currentSunday.setDate(currentSunday.getDate() + 6);
-  document.querySelector("#focus-week").textContent = `第 ${isoWeekNumber(new Date())} 周`;
-  document.querySelector("#focus-range").textContent = `${shortDate(currentMonday)} — ${shortDate(currentSunday)}`;
   document.querySelector("#archive-total").textContent = reports.length;
   document.querySelector("#sync-date").textContent = latest ? `已同步至 ${latest.replaceAll("-", ".")}` : "暂无可用报告";
   document.querySelector("#weekly-signals").innerHTML = categories.slice(1).map((category) => {
