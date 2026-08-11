@@ -1,6 +1,16 @@
 window.REPORTS = 
 [
   {
+    "id": "E7qedkTjwo7cDVxXjJiczVUcnlf",
+    "category": "电信行业报告",
+    "title": "电信运营商行业周报｜2026年8月3日—8月9日",
+    "period": "2026-08-11",
+    "publishedAt": "2026-08-10",
+    "updatedAt": "2026-08-11T15:28:41+08:00",
+    "url": "https://my.feishu.cn/docx/E7qedkTjwo7cDVxXjJiczVUcnlf",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+  },
+  {
     "id": "DETSdi42wohk9nxo5AIcxHZwn2f",
     "category": "电信运营商集中化信息更新",
     "title": "2026年电信运营商集中化/集约化发展报告",
