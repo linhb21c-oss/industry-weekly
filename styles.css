@@ -16,7 +16,7 @@ h1, h2, h3, p { margin-top: 0; }
 h1 { margin-bottom: 0; font-size: clamp(32px, 4vw, 49px); letter-spacing: -.05em; }
 h2 { margin-bottom: 0; font-size: 21px; letter-spacing: -.03em; }
 .sync-status { display: flex; align-items: center; gap: 9px; color: #a7bad3; font-size: 13px; }
-.brand-meta { display: grid; justify-items: end; gap: 10px; }
+.brand-meta { display: grid; justify-items: end; gap: 10px; padding-right: clamp(18px, 2vw, 40px); }
 .sync-controls { display: flex; align-items: center; justify-content: end; gap: 12px; }
 .company-logo { width: 132px; height: auto; }
 .sync-button { border: 1px solid #477494; border-radius: 7px; padding: 8px 12px; color: #d5ebff; background: #0d2740; font-size: 13px; font-weight: 700; cursor: pointer; }
