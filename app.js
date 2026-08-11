@@ -22,6 +22,11 @@ function formatDate(date) {
   return new Intl.DateTimeFormat("zh-CN", { month: "long", day: "numeric" }).format(new Date(`${date}T00:00:00`));
 }
 
+function overviewInsight(text) {
+  const normalized = text.replace(/^本周三条关键信号[：:]\s*/, "").replace(/\s*https?:\/\/\S+/g, "").trim();
+  return normalized.length > 76 ? `${normalized.slice(0, 75)}…` : normalized;
+}
+
 function visibleReports() {
   return reports.filter((report) => activeCategory === "全部" || report.category === activeCategory);
 }
@@ -83,8 +88,10 @@ function renderOverview() {
   document.querySelector("#archive-total").textContent = reports.length;
   document.querySelector("#sync-date").textContent = latest ? `已同步至 ${latest.replaceAll("-", ".")}` : "暂无可用报告";
   document.querySelector("#weekly-signals").innerHTML = categories.slice(1).map((category) => {
-    const signal = categorySignals[category] || { label: category, text: "本周重点动态已归档，可在报告库中查看原文。" };
-    return `<div class="weekly-signal"><strong>${signal.label}</strong><span>${signal.text}</span></div>`;
+    const fallback = categorySignals[category] || { label: category, text: "本周重点动态已归档，可在报告库中查看原文。" };
+    const report = reports.find((item) => item.category === category);
+    const text = overviewInsight(report?.insights?.[0] || report?.summary || fallback.text);
+    return `<div class="weekly-signal"><strong>${fallback.label}</strong><span>${text}</span></div>`;
   }).join("");
 }
 
