@@ -105,8 +105,6 @@ function renderOverview() {
   currentSunday.setDate(currentSunday.getDate() + 6);
   document.querySelector("#focus-week").textContent = `第 ${isoWeekNumber(new Date())} 周`;
   document.querySelector("#focus-range").textContent = `${shortDate(currentMonday)} — ${shortDate(currentSunday)}`;
-  const warning = document.querySelector("#sync-warning");
-  warning.hidden = !latest || latest >= `${currentMonday.getFullYear()}-${String(currentMonday.getMonth() + 1).padStart(2, "0")}-${String(currentMonday.getDate()).padStart(2, "0")}`;
   document.querySelector("#archive-total").textContent = reports.length;
   document.querySelector("#sync-date").textContent = latest ? `已同步至 ${latest.replaceAll("-", ".")}` : "暂无可用报告";
   document.querySelector("#weekly-signals").innerHTML = categories.slice(1).map((category) => {
