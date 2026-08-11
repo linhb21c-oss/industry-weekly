@@ -1,36 +1,6 @@
 window.REPORTS = 
 [
   {
-    "id": "DETSdi42wohk9nxo5AIcxHZwn2f",
-    "category": "电信运营商集中化信息更新",
-    "title": "2026年电信运营商集中化/集约化发展报告",
-    "period": "2026-08-10",
-    "publishedAt": "2026-08-10",
-    "updatedAt": "2026-08-10T09:15:07+08:00",
-    "url": "https://my.feishu.cn/docx/DETSdi42wohk9nxo5AIcxHZwn2f",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
-    "id": "XJcUdJEiMoe1yzxEL4ZcyDw4n5c",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊 · 第32期 | 2026.08.03–08.09",
-    "period": "2026-08-10",
-    "publishedAt": "2026-08-10",
-    "updatedAt": "2026-08-10T09:04:59+08:00",
-    "url": "https://my.feishu.cn/docx/XJcUdJEiMoe1yzxEL4ZcyDw4n5c",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
-    "id": "EwRJdodLBosU7vxcYcLcjEagnEf",
-    "category": "友商动态",
-    "title": "友商动态周报（2026.08.03 - 2026.08.09）",
-    "period": "2026-08-10",
-    "publishedAt": "2026-08-10",
-    "updatedAt": "2026-08-10T09:04:16+08:00",
-    "url": "https://my.feishu.cn/docx/EwRJdodLBosU7vxcYcLcjEagnEf",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
-  },
-  {
     "id": "JF26dn3LKo6lJ1xQPS0c5Huhn7O",
     "category": "电信运营商集中化信息更新",
     "title": "电信运营商集中化全景分析（2026年8月更新版）",
@@ -132,7 +102,7 @@ window.REPORTS =
   },
   {
     "id": "Ksu8dfcCforvEqxqqgBcKuM0nld",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "行业周刊 | 2026年第28周（7.6-7.12）",
     "period": "2026-07-13",
     "publishedAt": "2026-07-13",
@@ -162,7 +132,7 @@ window.REPORTS =
   },
   {
     "id": "HZrqdvQGzoAYPqxo88GcvldLnBg",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "行业周刊 | 2026年第27周（6.29-7.5）",
     "period": "2026-07-06",
     "publishedAt": "2026-07-06",
@@ -322,7 +292,7 @@ window.REPORTS =
   },
   {
     "id": "Jx7JdHyNOodZNox8lsgcNGLzntb",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "行业周刊 · 2026年第22周（5.25-6.1）",
     "period": "2026-06-01",
     "publishedAt": "2026-06-01",
@@ -432,7 +402,7 @@ window.REPORTS =
   },
   {
     "id": "PYOJdSjg7oRErhxnJ5acfVh2ncb",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "行业周刊报告：2026年5月4日-5月11日",
     "period": "2026-05-11",
     "publishedAt": "2026-05-11",
@@ -592,7 +562,7 @@ window.REPORTS =
   },
   {
     "id": "VGKKdwUxboyzu3xMFFhcvXJfnff",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "科技互联网行业周刊（2026年3月2日-3月9日）",
     "period": "2026-03-09",
     "publishedAt": "2026-03-09",
@@ -642,7 +612,7 @@ window.REPORTS =
   },
   {
     "id": "WX4OdE6D6or4p5xLj2scq5wknae",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "2026年2月第三周行业周刊报告（2.16-2.23）",
     "period": "2026-02-23",
     "publishedAt": "2026-02-23",
@@ -682,7 +652,7 @@ window.REPORTS =
   },
   {
     "id": "FlMNdnJhOoYDgrxTaHEcsXHznFb",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "2026年2月第二周行业周刊报告（2026-02-02至2026-02-09）",
     "period": "2026-02-09",
     "publishedAt": "2026-02-09",
@@ -752,7 +722,7 @@ window.REPORTS =
   },
   {
     "id": "I0lGdXxr0oA8HoxpmOGcrmOPnYe",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "2026年1月19日至25日行业周刊报告",
     "period": "2026-01-26",
     "publishedAt": "2026-01-26",
@@ -792,7 +762,7 @@ window.REPORTS =
   },
   {
     "id": "A8QJd7beXo6ltCxFJhlcPlpQnAd",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "行业周刊报告-2026年1月13日至19日",
     "period": "2026-01-19",
     "publishedAt": "2026-01-19",
@@ -832,7 +802,7 @@ window.REPORTS =
   },
   {
     "id": "Y4IVdtnRroPNP0xpIlDcdAMfnnR",
-    "category": "行业周刊",
+    "category": "电信行业报告",
     "title": "2026年1月5日-12日行业周刊报告",
     "period": "2026-01-12",
     "publishedAt": "2026-01-12",

@@ -13,7 +13,7 @@ const manualSyncButton = document.querySelector("#manual-sync");
 const syncFeedback = document.querySelector("#sync-feedback");
 const categorySignals = {
   "电信运营商集中化信息更新": { label: "运营商", text: "算力与智能网络投入继续上升；集中化 BOSS 正从平台整合转向数据、AI 驱动的运营中枢。" },
-  "行业周刊": { label: "行业", text: "大模型竞争转向成本效率和商业化；存储供给偏紧，自动驾驶进入标准与合规阶段。" },
+  "电信行业报告": { label: "行业", text: "大模型竞争转向成本效率和商业化；存储供给偏紧，自动驾驶进入标准与合规阶段。" },
   "友商动态": { label: "友商", text: "产品发布、组织与业务布局同步调整，需结合历史时间线和行业背景交叉研判。" },
   "AI行业周刊": { label: "AI", text: "竞争焦点转向智能体协同、多模态与工作流落地，运营商 Token 经营成为新价值主线。" }
 };
