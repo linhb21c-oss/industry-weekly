@@ -31,6 +31,7 @@ h2 { margin-bottom: 0; font-size: 21px; letter-spacing: -.03em; }
 .week-label span, .focus-card > span { display: block; color: #91acd0; font-size: 12px; }
 .week-label strong { display: block; margin: 7px 0 2px; font-size: 27px; letter-spacing: -.04em; }
 .week-label small { color: #88a0bd; font-size: 12px; }
+.week-label .sync-warning { display: block; margin-top: 12px; color: #ff8e8e; font-size: 12px; font-weight: 700; }
 .signal { display: flex; flex-direction: column; justify-content: center; color: #9eb0c8; font-size: 12px; line-height: 1.45; }
 .signal-number { color: #f5f8ff; font-size: 28px; font-weight: 700; letter-spacing: -.04em; }
 .focus-card { background: linear-gradient(115deg, #10345c, #10264a) !important; }

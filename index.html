@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#08111f" />
     <title>行业动态 | 周度情报看板</title>
-    <link rel="stylesheet" href="styles.css?v=1786430993" />
+    <link rel="stylesheet" href="styles.css?v=1786431176" />
   </head>
   <body>
     <main class="shell">
@@ -34,8 +34,9 @@
       <section class="overview" aria-label="本周概览">
         <div class="week-label">
           <span>当前焦点</span>
-          <strong>第 28 周</strong>
-          <small>7.6 — 7.12</small>
+          <strong id="focus-week">—</strong>
+          <small id="focus-range">—</small>
+          <small id="sync-warning" class="sync-warning" hidden>本周尚未更新</small>
         </div>
         <div class="signal"><span id="archive-total" class="signal-number">—</span><span>已归档报告</span></div>
         <div class="focus-card">
@@ -68,8 +69,8 @@
         <span class="period"></span>
       </button>
     </template>
-    <script src="data/reports.js?v=1786430993"></script>
-    <script src="data/report-details.js?v=1786430993"></script>
-    <script src="app.js?v=1786430993"></script>
+    <script src="data/reports.js?v=1786431176"></script>
+    <script src="data/report-details.js?v=1786431176"></script>
+    <script src="app.js?v=1786431176"></script>
   </body>
 </html>
