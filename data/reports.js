@@ -1,6 +1,36 @@
 window.REPORTS = 
 [
   {
+    "id": "DETSdi42wohk9nxo5AIcxHZwn2f",
+    "category": "电信运营商集中化信息更新",
+    "title": "2026年电信运营商集中化/集约化发展报告",
+    "period": "2026-08-10",
+    "publishedAt": "2026-08-10",
+    "updatedAt": "2026-08-10T09:15:07+08:00",
+    "url": "https://my.feishu.cn/docx/DETSdi42wohk9nxo5AIcxHZwn2f",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+  },
+  {
+    "id": "XJcUdJEiMoe1yzxEL4ZcyDw4n5c",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊 · 第32期 | 2026.08.03–08.09",
+    "period": "2026-08-10",
+    "publishedAt": "2026-08-10",
+    "updatedAt": "2026-08-10T09:04:59+08:00",
+    "url": "https://my.feishu.cn/docx/XJcUdJEiMoe1yzxEL4ZcyDw4n5c",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+  },
+  {
+    "id": "EwRJdodLBosU7vxcYcLcjEagnEf",
+    "category": "友商动态",
+    "title": "友商动态周报（2026.08.03 - 2026.08.09）",
+    "period": "2026-08-10",
+    "publishedAt": "2026-08-10",
+    "updatedAt": "2026-08-10T09:04:16+08:00",
+    "url": "https://my.feishu.cn/docx/EwRJdodLBosU7vxcYcLcjEagnEf",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+  },
+  {
     "id": "JF26dn3LKo6lJ1xQPS0c5Huhn7O",
     "category": "电信运营商集中化信息更新",
     "title": "电信运营商集中化全景分析（2026年8月更新版）",
