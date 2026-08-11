@@ -24,7 +24,7 @@ function formatDate(date) {
 
 function overviewInsight(text) {
   const normalized = text.replace(/^本周三条关键信号[：:]\s*/, "").replace(/\s*https?:\/\/\S+/g, "").trim();
-  return normalized.length > 76 ? `${normalized.slice(0, 75)}…` : normalized;
+  return normalized.length > 50 ? `${normalized.slice(0, 49)}…` : normalized;
 }
 
 function visibleReports() {
@@ -90,7 +90,7 @@ function renderOverview() {
   document.querySelector("#weekly-signals").innerHTML = categories.slice(1).map((category) => {
     const fallback = categorySignals[category] || { label: category, text: "本周重点动态已归档，可在报告库中查看原文。" };
     const report = reports.find((item) => item.category === category);
-    const text = overviewInsight(report?.insights?.[0] || report?.summary || fallback.text);
+    const text = overviewInsight(report?.conclusion || report?.insights?.[0] || report?.summary || fallback.text);
     return `<div class="weekly-signal"><strong>${fallback.label}</strong><span>${text}</span></div>`;
   }).join("");
 }
