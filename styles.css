@@ -10,7 +10,7 @@ body { margin: 0; min-width: 320px; background: radial-gradient(circle at 88% -1
 button { font: inherit; }
 .shell { max-width: 1540px; min-height: 100vh; margin: 0 auto; padding: 34px clamp(22px, 4vw, 64px) 42px; }
 .topbar, .overview, .workspace { display: grid; }
-.topbar { grid-template-columns: 1fr auto; align-items: end; padding-bottom: 26px; }
+.topbar { position: sticky; top: 0; z-index: 20; grid-template-columns: 1fr auto; align-items: end; padding: 18px 0 26px; background: #07101c; }
 .eyebrow { margin: 0 0 7px; color: #76a7dc; font-size: 10px; font-weight: 700; letter-spacing: .16em; }
 h1, h2, h3, p { margin-top: 0; }
 h1 { margin-bottom: 0; font-size: clamp(32px, 4vw, 49px); letter-spacing: -.05em; }
