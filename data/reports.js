@@ -1,6 +1,16 @@
 window.REPORTS = 
 [
   {
+    "id": "V8Zed2yJ8oK0WExoSUyc588nnfg",
+    "category": "电信运营商集中化信息更新",
+    "title": "2026年电信运营商集中化/集约化信息更新报告",
+    "period": "2026-08-11",
+    "publishedAt": "2026-08-11",
+    "updatedAt": "2026-08-11T18:25:20+08:00",
+    "url": "https://my.feishu.cn/docx/V8Zed2yJ8oK0WExoSUyc588nnfg",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。"
+  },
+  {
     "id": "E7qedkTjwo7cDVxXjJiczVUcnlf",
     "category": "电信行业报告",
     "title": "电信运营商行业周报｜2026年8月3日—8月9日",
@@ -41,16 +51,6 @@ window.REPORTS =
     "summary": "已从飞书 Aily 同步，点击查看完整报告。"
   },
   {
-    "id": "JF26dn3LKo6lJ1xQPS0c5Huhn7O",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年8月更新版）",
-    "period": "2026-08-03",
-    "publishedAt": "2026-08-03",
-    "url": "https://my.feishu.cn/docx/JF26dn3LKo6lJ1xQPS0c5Huhn7O",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-08-03"
-  },
-  {
     "id": "MgTAdnavyo3074x2NV0cJx1enTd",
     "category": "友商动态",
     "title": "友商动态周报（2026年7月27日-8月2日）",
@@ -69,6 +69,26 @@ window.REPORTS =
     "url": "https://my.feishu.cn/docx/MIZ6dO30tox6vux3e6Vco13Qn4d",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "JF26dn3LKo6lJ1xQPS0c5Huhn7O",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化全景分析（2026年8月更新版）",
+    "period": "2026-08-03",
+    "publishedAt": "2026-08-03",
+    "url": "https://my.feishu.cn/docx/JF26dn3LKo6lJ1xQPS0c5Huhn7O",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-08-03"
+  },
+  {
+    "id": "Hx0BdewfVorKiKxP3IdchUL5nwe",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊 · 第30期 | 2026.07.20–07.26",
+    "period": "2026-07-27",
+    "publishedAt": "2026-07-27",
+    "url": "https://my.feishu.cn/docx/Hx0BdewfVorKiKxP3IdchUL5nwe",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-07-27"
   },
   {
     "id": "F3ZmdXmpPoUPhgxZ9FucFg8en8n",
@@ -91,14 +111,14 @@ window.REPORTS =
     "updatedAt": "2026-07-27"
   },
   {
-    "id": "Hx0BdewfVorKiKxP3IdchUL5nwe",
+    "id": "TvSXduwiBohvSJx7uVucnCVTnFb",
     "category": "AI行业周刊",
-    "title": "AI行业周刊 · 第30期 | 2026.07.20–07.26",
-    "period": "2026-07-27",
-    "publishedAt": "2026-07-27",
-    "url": "https://my.feishu.cn/docx/Hx0BdewfVorKiKxP3IdchUL5nwe",
+    "title": "AI行业周刊（2026年7月第3周 / 7.13-7.19）",
+    "period": "2026-07-20",
+    "publishedAt": "2026-07-20",
+    "url": "https://my.feishu.cn/docx/TvSXduwiBohvSJx7uVucnCVTnFb#doxcnd5dKSSmALQhyqIsSpiHBCh",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-07-27"
+    "updatedAt": "2026-07-20"
   },
   {
     "id": "QbbedV5nYohx8txN9cicX0lyngd",
@@ -117,16 +137,6 @@ window.REPORTS =
     "period": "2026-07-20",
     "publishedAt": "2026-07-20",
     "url": "https://my.feishu.cn/docx/Mh3Bdd9kroaP00xTY7ncdloBnKh#doxcnsCrmDwey39b9ZcfphY4C4d",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-07-20"
-  },
-  {
-    "id": "TvSXduwiBohvSJx7uVucnCVTnFb",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊（2026年7月第3周 / 7.13-7.19）",
-    "period": "2026-07-20",
-    "publishedAt": "2026-07-20",
-    "url": "https://my.feishu.cn/docx/TvSXduwiBohvSJx7uVucnCVTnFb#doxcnd5dKSSmALQhyqIsSpiHBCh",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-07-20"
   },
@@ -181,16 +191,6 @@ window.REPORTS =
     "updatedAt": "2026-07-06"
   },
   {
-    "id": "HZrqdvQGzoAYPqxo88GcvldLnBg",
-    "category": "电信行业报告",
-    "title": "行业周刊 | 2026年第27周（6.29-7.5）",
-    "period": "2026-07-06",
-    "publishedAt": "2026-07-06",
-    "url": "https://my.feishu.cn/docx/HZrqdvQGzoAYPqxo88GcvldLnBg#doxcnZtI0yJnolx0c0tkeim10Ag",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-07-06"
-  },
-  {
     "id": "LZCfdIVSpoJN3NxPmcIcpo8unAe",
     "category": "友商动态",
     "title": "友商动态周报（2026年6月29日—7月6日）",
@@ -209,6 +209,26 @@ window.REPORTS =
     "url": "https://my.feishu.cn/docx/KCxQddkcxoWQKmx3tPjcjpwfn8J#doxcnlBCAx6erJvcvT0tbt7A3Df",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-07-06"
+  },
+  {
+    "id": "HZrqdvQGzoAYPqxo88GcvldLnBg",
+    "category": "电信行业报告",
+    "title": "行业周刊 | 2026年第27周（6.29-7.5）",
+    "period": "2026-07-06",
+    "publishedAt": "2026-07-06",
+    "url": "https://my.feishu.cn/docx/HZrqdvQGzoAYPqxo88GcvldLnBg#doxcnZtI0yJnolx0c0tkeim10Ag",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-07-06"
+  },
+  {
+    "id": "V2VRdxQlMoxHPpxf1nHcFZo4nJO",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊 · 2026年第26周（6.22-6.29）",
+    "period": "2026-06-29",
+    "publishedAt": "2026-06-29",
+    "url": "https://my.feishu.cn/docx/V2VRdxQlMoxHPpxf1nHcFZo4nJO#doxcnBwKVJ3Qc8q4Shl1iFGxcVb",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-06-29"
   },
   {
     "id": "Sf6ZdWr1GoQLcJxriS7cTFELnre",
@@ -231,32 +251,12 @@ window.REPORTS =
     "updatedAt": "2026-06-29"
   },
   {
-    "id": "V2VRdxQlMoxHPpxf1nHcFZo4nJO",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊 · 2026年第26周（6.22-6.29）",
-    "period": "2026-06-29",
-    "publishedAt": "2026-06-29",
-    "url": "https://my.feishu.cn/docx/V2VRdxQlMoxHPpxf1nHcFZo4nJO#doxcnBwKVJ3Qc8q4Shl1iFGxcVb",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-06-29"
-  },
-  {
     "id": "X7GKdDIXXoEKwqxtqBZcGt9Enda",
     "category": "电信运营商集中化信息更新",
     "title": "2026年电信运营商集中化集约化信息更新报告",
     "period": "2026-06-22",
     "publishedAt": "2026-06-22",
     "url": "https://my.feishu.cn/docx/X7GKdDIXXoEKwqxtqBZcGt9Enda#doxcnTTSjBdV49XlYiOa0kxbUZc",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-06-22"
-  },
-  {
-    "id": "A8M4dfIDroJuCOxQdYEccNUCnVe",
-    "category": "友商动态",
-    "title": "友商动态报告（2026.06.15 ~ 2026.06.22）",
-    "period": "2026-06-22",
-    "publishedAt": "2026-06-22",
-    "url": "https://my.feishu.cn/docx/A8M4dfIDroJuCOxQdYEccNUCnVe#doxcnsuoGyrbZ7o40YvxXUe1jag",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-06-22"
   },
@@ -271,6 +271,16 @@ window.REPORTS =
     "updatedAt": "2026-06-22"
   },
   {
+    "id": "A8M4dfIDroJuCOxQdYEccNUCnVe",
+    "category": "友商动态",
+    "title": "友商动态报告（2026.06.15 ~ 2026.06.22）",
+    "period": "2026-06-22",
+    "publishedAt": "2026-06-22",
+    "url": "https://my.feishu.cn/docx/A8M4dfIDroJuCOxQdYEccNUCnVe#doxcnsuoGyrbZ7o40YvxXUe1jag",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-06-22"
+  },
+  {
     "id": "PraGdK9FboI1HyxpJsVcJRXbnKj",
     "category": "电信运营商集中化信息更新",
     "title": "电信运营商集中化全景分析（2026年中更新版）",
@@ -281,22 +291,22 @@ window.REPORTS =
     "updatedAt": "2026-06-15"
   },
   {
-    "id": "Abwedk4UyoxjWQxpvd5cjwZenag",
-    "category": "友商动态",
-    "title": "友商动态报告（2026年6月8日-6月14日）",
-    "period": "2026-06-15",
-    "publishedAt": "2026-06-15",
-    "url": "https://my.feishu.cn/docx/Abwedk4UyoxjWQxpvd5cjwZenag#doxcnscNYknpSHCj0Y3Vzohg3Bg",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-06-15"
-  },
-  {
     "id": "LA3VdBiXooEZbnx0JMHcOruXnWf",
     "category": "AI行业周刊",
     "title": "AI行业周刊 | 2026年第24期（6月8日-6月15日）",
     "period": "2026-06-15",
     "publishedAt": "2026-06-15",
     "url": "https://my.feishu.cn/docx/LA3VdBiXooEZbnx0JMHcOruXnWf#doxcnNStTpHcuHKRgaR2iw3POpf",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-06-15"
+  },
+  {
+    "id": "Abwedk4UyoxjWQxpvd5cjwZenag",
+    "category": "友商动态",
+    "title": "友商动态报告（2026年6月8日-6月14日）",
+    "period": "2026-06-15",
+    "publishedAt": "2026-06-15",
+    "url": "https://my.feishu.cn/docx/Abwedk4UyoxjWQxpvd5cjwZenag#doxcnscNYknpSHCj0Y3Vzohg3Bg",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-06-15"
   },
@@ -331,6 +341,16 @@ window.REPORTS =
     "updatedAt": "2026-06-08"
   },
   {
+    "id": "WOHud2Du4odNfXxPNi8c4BVrnge",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊 · 2026年5月第四周",
+    "period": "2026-06-01",
+    "publishedAt": "2026-06-01",
+    "url": "https://my.feishu.cn/docx/WOHud2Du4odNfXxPNi8c4BVrnge#doxcnkr2xBlAVSXeO91qYnDUf1f",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-06-01"
+  },
+  {
     "id": "RlxEdLONIokZhlxsOm9cePyhnub",
     "category": "电信运营商集中化信息更新",
     "title": "2026年电信运营商集中化集约化发展研究报告",
@@ -361,22 +381,12 @@ window.REPORTS =
     "updatedAt": "2026-06-01"
   },
   {
-    "id": "WOHud2Du4odNfXxPNi8c4BVrnge",
+    "id": "TbUCd0hgZoZ5kxxYuUPcU639nMe",
     "category": "AI行业周刊",
-    "title": "AI行业周刊 · 2026年5月第四周",
-    "period": "2026-06-01",
-    "publishedAt": "2026-06-01",
-    "url": "https://my.feishu.cn/docx/WOHud2Du4odNfXxPNi8c4BVrnge#doxcnkr2xBlAVSXeO91qYnDUf1f",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-06-01"
-  },
-  {
-    "id": "GBKBdLPmcoMXtUxkwqGcrnBLnTy",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化行业研究报告",
+    "title": "AI行业周刊报告（2026年5月18-25日）",
     "period": "2026-05-25",
     "publishedAt": "2026-05-25",
-    "url": "https://my.feishu.cn/docx/GBKBdLPmcoMXtUxkwqGcrnBLnTy#doxcn0YUBNkwgzXaKYxJLXrkPgg",
+    "url": "https://my.feishu.cn/docx/TbUCd0hgZoZ5kxxYuUPcU639nMe#doxcn4SLP8ujslyC2uSW2WLLSxc",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-05-25"
   },
@@ -391,12 +401,12 @@ window.REPORTS =
     "updatedAt": "2026-05-25"
   },
   {
-    "id": "TbUCd0hgZoZ5kxxYuUPcU639nMe",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊报告（2026年5月18-25日）",
+    "id": "GBKBdLPmcoMXtUxkwqGcrnBLnTy",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化行业研究报告",
     "period": "2026-05-25",
     "publishedAt": "2026-05-25",
-    "url": "https://my.feishu.cn/docx/TbUCd0hgZoZ5kxxYuUPcU639nMe#doxcn4SLP8ujslyC2uSW2WLLSxc",
+    "url": "https://my.feishu.cn/docx/GBKBdLPmcoMXtUxkwqGcrnBLnTy#doxcn0YUBNkwgzXaKYxJLXrkPgg",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-05-25"
   },
@@ -409,6 +419,16 @@ window.REPORTS =
     "url": "https://my.feishu.cn/docx/W3lYdVJGFoKpOpxFDGPcNdIgnvb#doxcnu7R8wzWe0vQmEq6J3nqHYd",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-05-19"
+  },
+  {
+    "id": "QoVVd8cD9o1IigxAR3HcPwVxnTd",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊报告（2026年5月11日-5月18日）",
+    "period": "2026-05-18",
+    "publishedAt": "2026-05-18",
+    "url": "https://my.feishu.cn/docx/QoVVd8cD9o1IigxAR3HcPwVxnTd#doxcnEnWxd5CGeKbnV05sLWyimb",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-05-18"
   },
   {
     "id": "OU33d1mOEoUxnSxOpy7cXSwknmh",
@@ -431,32 +451,22 @@ window.REPORTS =
     "updatedAt": "2026-05-18"
   },
   {
-    "id": "QoVVd8cD9o1IigxAR3HcPwVxnTd",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊报告（2026年5月11日-5月18日）",
-    "period": "2026-05-18",
-    "publishedAt": "2026-05-18",
-    "url": "https://my.feishu.cn/docx/QoVVd8cD9o1IigxAR3HcPwVxnTd#doxcnEnWxd5CGeKbnV05sLWyimb",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-05-18"
-  },
-  {
-    "id": "BZOGdcMMvo8yjLx2oSvcJybVnRh",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年5月更新版）",
-    "period": "2026-05-11",
-    "publishedAt": "2026-05-11",
-    "url": "https://my.feishu.cn/docx/BZOGdcMMvo8yjLx2oSvcJybVnRh#doxcn0fSeTQfiuhYZLDW2AAUIce",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-05-11"
-  },
-  {
     "id": "PYOJdSjg7oRErhxnJ5acfVh2ncb",
     "category": "电信行业报告",
     "title": "行业周刊报告：2026年5月4日-5月11日",
     "period": "2026-05-11",
     "publishedAt": "2026-05-11",
     "url": "https://my.feishu.cn/docx/PYOJdSjg7oRErhxnJ5acfVh2ncb#doxcnNnHhR6UQ6Jc0wSaLki4Jsd",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-05-11"
+  },
+  {
+    "id": "PDJFdFvIfo5yJqxHocPchHaGnVG",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊报告（2026年5月4日-5月11日）",
+    "period": "2026-05-11",
+    "publishedAt": "2026-05-11",
+    "url": "https://my.feishu.cn/docx/PDJFdFvIfo5yJqxHocPchHaGnVG#doxcnSEkUm8vugTkwvG1VJyN0Ge",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-05-11"
   },
@@ -471,12 +481,12 @@ window.REPORTS =
     "updatedAt": "2026-05-11"
   },
   {
-    "id": "PDJFdFvIfo5yJqxHocPchHaGnVG",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊报告（2026年5月4日-5月11日）",
+    "id": "BZOGdcMMvo8yjLx2oSvcJybVnRh",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化全景分析（2026年5月更新版）",
     "period": "2026-05-11",
     "publishedAt": "2026-05-11",
-    "url": "https://my.feishu.cn/docx/PDJFdFvIfo5yJqxHocPchHaGnVG#doxcnSEkUm8vugTkwvG1VJyN0Ge",
+    "url": "https://my.feishu.cn/docx/BZOGdcMMvo8yjLx2oSvcJybVnRh#doxcn0fSeTQfiuhYZLDW2AAUIce",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-05-11"
   },
@@ -561,22 +571,22 @@ window.REPORTS =
     "updatedAt": "2026-04-06"
   },
   {
-    "id": "HUzJdvhJOoti0QxAnvCcqR5fnNc",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年深度更新版）",
-    "period": "2026-03-30",
-    "publishedAt": "2026-03-30",
-    "url": "https://my.feishu.cn/docx/HUzJdvhJOoti0QxAnvCcqR5fnNc#doxcnTZP4hIUVWZL3TGBzz5f1Zf",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-03-30"
-  },
-  {
     "id": "IOPndzD2noAEovxk6fvcaunJnGh",
     "category": "AI行业周刊",
     "title": "AI行业周刊报告（2026年3月23日-30日）",
     "period": "2026-03-30",
     "publishedAt": "2026-03-30",
     "url": "https://my.feishu.cn/docx/IOPndzD2noAEovxk6fvcaunJnGh#doxcn9SOa17lrjDS7BGGNkiyeIh",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-03-30"
+  },
+  {
+    "id": "HUzJdvhJOoti0QxAnvCcqR5fnNc",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化全景分析（2026年深度更新版）",
+    "period": "2026-03-30",
+    "publishedAt": "2026-03-30",
+    "url": "https://my.feishu.cn/docx/HUzJdvhJOoti0QxAnvCcqR5fnNc#doxcnTZP4hIUVWZL3TGBzz5f1Zf",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-03-30"
   },
@@ -601,16 +611,6 @@ window.REPORTS =
     "updatedAt": "2026-03-16"
   },
   {
-    "id": "R7JgdzncOoeYNwxbevzcOvXznSc",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年3月更新版）",
-    "period": "2026-03-09",
-    "publishedAt": "2026-03-09",
-    "url": "https://my.feishu.cn/docx/R7JgdzncOoeYNwxbevzcOvXznSc#doxcnf7cN0GrbltABY6CedTEsGb",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-03-09"
-  },
-  {
     "id": "VGKKdwUxboyzu3xMFFhcvXJfnff",
     "category": "电信行业报告",
     "title": "科技互联网行业周刊（2026年3月2日-3月9日）",
@@ -621,12 +621,12 @@ window.REPORTS =
     "updatedAt": "2026-03-09"
   },
   {
-    "id": "Cn0hdhaVzoyOSJxe1A0cSyp3nPh",
-    "category": "友商动态",
-    "title": "2026年3月2-9日友商动态报告：AI智能体驱动的电信转型",
+    "id": "R7JgdzncOoeYNwxbevzcOvXznSc",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化全景分析（2026年3月更新版）",
     "period": "2026-03-09",
     "publishedAt": "2026-03-09",
-    "url": "https://my.feishu.cn/docx/Cn0hdhaVzoyOSJxe1A0cSyp3nPh#doxcnx1o1RW6NBsrCNoPXiVEyzc",
+    "url": "https://my.feishu.cn/docx/R7JgdzncOoeYNwxbevzcOvXznSc#doxcnf7cN0GrbltABY6CedTEsGb",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-03-09"
   },
@@ -641,6 +641,16 @@ window.REPORTS =
     "updatedAt": "2026-03-09"
   },
   {
+    "id": "Cn0hdhaVzoyOSJxe1A0cSyp3nPh",
+    "category": "友商动态",
+    "title": "2026年3月2-9日友商动态报告：AI智能体驱动的电信转型",
+    "period": "2026-03-09",
+    "publishedAt": "2026-03-09",
+    "url": "https://my.feishu.cn/docx/Cn0hdhaVzoyOSJxe1A0cSyp3nPh#doxcnx1o1RW6NBsrCNoPXiVEyzc",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-03-09"
+  },
+  {
     "id": "VCgcdle3joJXfExYSNOco1Ldnnd",
     "category": "电信运营商集中化信息更新",
     "title": "电信运营商集中化全景分析（2026年更新版）",
@@ -651,22 +661,22 @@ window.REPORTS =
     "updatedAt": "2026-03-02"
   },
   {
-    "id": "PH8TdrZ36ofGFFxDActcPDWenwb",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年更新版）",
-    "period": "2026-02-23",
-    "publishedAt": "2026-02-23",
-    "url": "https://my.feishu.cn/docx/PH8TdrZ36ofGFFxDActcPDWenwb#doxcnAehOMvS9WMSBNBfd7thtVb",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-02-23"
-  },
-  {
     "id": "WX4OdE6D6or4p5xLj2scq5wknae",
     "category": "电信行业报告",
     "title": "2026年2月第三周行业周刊报告（2.16-2.23）",
     "period": "2026-02-23",
     "publishedAt": "2026-02-23",
     "url": "https://my.feishu.cn/docx/WX4OdE6D6or4p5xLj2scq5wknae#doxcnkJSN2S3LCZOHKjorctro7f",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-02-23"
+  },
+  {
+    "id": "PH8TdrZ36ofGFFxDActcPDWenwb",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化全景分析（2026年更新版）",
+    "period": "2026-02-23",
+    "publishedAt": "2026-02-23",
+    "url": "https://my.feishu.cn/docx/PH8TdrZ36ofGFFxDActcPDWenwb#doxcnAehOMvS9WMSBNBfd7thtVb",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-02-23"
   },
@@ -691,6 +701,26 @@ window.REPORTS =
     "updatedAt": "2026-02-16"
   },
   {
+    "id": "XaVBd2wV3oCszRxfauOcrVkHnPh",
+    "category": "AI行业周刊",
+    "title": "2026年2月2日至2月9日AI行业周刊报告",
+    "period": "2026-02-09",
+    "publishedAt": "2026-02-09",
+    "url": "https://my.feishu.cn/docx/XaVBd2wV3oCszRxfauOcrVkHnPh#doxcn0wzfo8xi131i0aM4t1VbHf",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-02-09"
+  },
+  {
+    "id": "QKqkdLKJro8b8lxJfa9cOmMZnCd",
+    "category": "友商动态",
+    "title": "友商动态2026年1月第四周",
+    "period": "2026-02-09",
+    "publishedAt": "2026-02-09",
+    "url": "https://my.feishu.cn/docx/QKqkdLKJro8b8lxJfa9cOmMZnCd#doxcnMunfbV6ygrVJC0S0K5N3Me",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-02-09"
+  },
+  {
     "id": "Pk0udiC7ModgOrxsx8rc3JJfnFc",
     "category": "电信运营商集中化信息更新",
     "title": "电信运营商集中化全景分析（2026年更新版）",
@@ -711,24 +741,14 @@ window.REPORTS =
     "updatedAt": "2026-02-09"
   },
   {
-    "id": "QKqkdLKJro8b8lxJfa9cOmMZnCd",
+    "id": "TEfnd2i2nozrkLxDRSRcNC2Gngh",
     "category": "友商动态",
-    "title": "友商动态2026年1月第四周",
-    "period": "2026-02-09",
-    "publishedAt": "2026-02-09",
-    "url": "https://my.feishu.cn/docx/QKqkdLKJro8b8lxJfa9cOmMZnCd#doxcnMunfbV6ygrVJC0S0K5N3Me",
+    "title": "2026年1月26日至2月2日友商动态报告",
+    "period": "2026-02-02",
+    "publishedAt": "2026-02-02",
+    "url": "https://my.feishu.cn/docx/TEfnd2i2nozrkLxDRSRcNC2Gngh#doxcnWLVKNmpQm31jbY6sNMrWGh",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-02-09"
-  },
-  {
-    "id": "XaVBd2wV3oCszRxfauOcrVkHnPh",
-    "category": "AI行业周刊",
-    "title": "2026年2月2日至2月9日AI行业周刊报告",
-    "period": "2026-02-09",
-    "publishedAt": "2026-02-09",
-    "url": "https://my.feishu.cn/docx/XaVBd2wV3oCszRxfauOcrVkHnPh#doxcn0wzfo8xi131i0aM4t1VbHf",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-02-09"
+    "updatedAt": "2026-02-02"
   },
   {
     "id": "CRO5d7k9yooh93xfgZBcv13NnQe",
@@ -737,16 +757,6 @@ window.REPORTS =
     "period": "2026-02-02",
     "publishedAt": "2026-02-02",
     "url": "https://my.feishu.cn/docx/CRO5d7k9yooh93xfgZBcv13NnQe#doxcnChiiZaJ5TilsHk0eTtWZqd",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-02-02"
-  },
-  {
-    "id": "TEfnd2i2nozrkLxDRSRcNC2Gngh",
-    "category": "友商动态",
-    "title": "2026年1月26日至2月2日友商动态报告",
-    "period": "2026-02-02",
-    "publishedAt": "2026-02-02",
-    "url": "https://my.feishu.cn/docx/TEfnd2i2nozrkLxDRSRcNC2Gngh#doxcnWLVKNmpQm31jbY6sNMrWGh",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-02-02"
   },
@@ -771,12 +781,12 @@ window.REPORTS =
     "updatedAt": "2026-01-26"
   },
   {
-    "id": "I0lGdXxr0oA8HoxpmOGcrmOPnYe",
-    "category": "电信行业报告",
-    "title": "2026年1月19日至25日行业周刊报告",
+    "id": "Ri5vd75jkowZKVxcCTDckUFqnxc",
+    "category": "AI行业周刊",
+    "title": "AI行业周刊报告-2026年1月19-26日",
     "period": "2026-01-26",
     "publishedAt": "2026-01-26",
-    "url": "https://my.feishu.cn/docx/I0lGdXxr0oA8HoxpmOGcrmOPnYe",
+    "url": "https://my.feishu.cn/docx/Ri5vd75jkowZKVxcCTDckUFqnxc",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-01-26"
   },
@@ -791,12 +801,12 @@ window.REPORTS =
     "updatedAt": "2026-01-26"
   },
   {
-    "id": "Ri5vd75jkowZKVxcCTDckUFqnxc",
-    "category": "AI行业周刊",
-    "title": "AI行业周刊报告-2026年1月19-26日",
+    "id": "I0lGdXxr0oA8HoxpmOGcrmOPnYe",
+    "category": "电信行业报告",
+    "title": "2026年1月19日至25日行业周刊报告",
     "period": "2026-01-26",
     "publishedAt": "2026-01-26",
-    "url": "https://my.feishu.cn/docx/Ri5vd75jkowZKVxcCTDckUFqnxc",
+    "url": "https://my.feishu.cn/docx/I0lGdXxr0oA8HoxpmOGcrmOPnYe",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-01-26"
   },
@@ -807,16 +817,6 @@ window.REPORTS =
     "period": "2026-01-19",
     "publishedAt": "2026-01-19",
     "url": "https://my.feishu.cn/docx/ZkTVdVc8uoin45xzJnjcNd9PnKf",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-01-19"
-  },
-  {
-    "id": "A8QJd7beXo6ltCxFJhlcPlpQnAd",
-    "category": "电信行业报告",
-    "title": "行业周刊报告-2026年1月13日至19日",
-    "period": "2026-01-19",
-    "publishedAt": "2026-01-19",
-    "url": "https://my.feishu.cn/docx/A8QJd7beXo6ltCxFJhlcPlpQnAd",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-01-19"
   },
@@ -841,14 +841,14 @@ window.REPORTS =
     "updatedAt": "2026-01-19"
   },
   {
-    "id": "OUnYd3utMoyj4oxdrnYcyImanvh",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析（2026年更新版）",
-    "period": "2026-01-12",
-    "publishedAt": "2026-01-12",
-    "url": "https://my.feishu.cn/docx/OUnYd3utMoyj4oxdrnYcyImanvh",
+    "id": "A8QJd7beXo6ltCxFJhlcPlpQnAd",
+    "category": "电信行业报告",
+    "title": "行业周刊报告-2026年1月13日至19日",
+    "period": "2026-01-19",
+    "publishedAt": "2026-01-19",
+    "url": "https://my.feishu.cn/docx/A8QJd7beXo6ltCxFJhlcPlpQnAd",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-01-12"
+    "updatedAt": "2026-01-19"
   },
   {
     "id": "Y4IVdtnRroPNP0xpIlDcdAMfnnR",
@@ -857,6 +857,16 @@ window.REPORTS =
     "period": "2026-01-12",
     "publishedAt": "2026-01-12",
     "url": "https://my.feishu.cn/docx/Y4IVdtnRroPNP0xpIlDcdAMfnnR",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-01-12"
+  },
+  {
+    "id": "OUnYd3utMoyj4oxdrnYcyImanvh",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化全景分析（2026年更新版）",
+    "period": "2026-01-12",
+    "publishedAt": "2026-01-12",
+    "url": "https://my.feishu.cn/docx/OUnYd3utMoyj4oxdrnYcyImanvh",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-01-12"
   },
@@ -891,22 +901,22 @@ window.REPORTS =
     "updatedAt": "2026-01-05"
   },
   {
-    "id": "A9rqdSv6QoVLnzxwItWcu9eRnnh",
-    "category": "友商动态",
-    "title": "友商动态2025年12月第三周",
-    "period": "2026-01-05",
-    "publishedAt": "2026-01-05",
-    "url": "https://my.feishu.cn/docx/A9rqdSv6QoVLnzxwItWcu9eRnnh",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2026-01-05"
-  },
-  {
     "id": "SQlhdDJXJoyn99xYvcMcuQRZnxg",
     "category": "AI行业周刊",
     "title": "AI行业周刊报告_2025年12月30日-2026年1月5日",
     "period": "2026-01-05",
     "publishedAt": "2026-01-05",
     "url": "https://my.feishu.cn/docx/SQlhdDJXJoyn99xYvcMcuQRZnxg",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2026-01-05"
+  },
+  {
+    "id": "A9rqdSv6QoVLnzxwItWcu9eRnnh",
+    "category": "友商动态",
+    "title": "友商动态2025年12月第三周",
+    "period": "2026-01-05",
+    "publishedAt": "2026-01-05",
+    "url": "https://my.feishu.cn/docx/A9rqdSv6QoVLnzxwItWcu9eRnnh",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2026-01-05"
   },
@@ -921,22 +931,22 @@ window.REPORTS =
     "updatedAt": "2025-12-30"
   },
   {
-    "id": "C3GldRWq7oZprBxvXUzcxTzhnTb",
-    "category": "电信运营商集中化信息更新",
-    "title": "电信运营商集中化全景分析",
-    "period": "2025-12-22",
-    "publishedAt": "2025-12-22",
-    "url": "https://my.feishu.cn/docx/C3GldRWq7oZprBxvXUzcxTzhnTb",
-    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
-    "updatedAt": "2025-12-22"
-  },
-  {
     "id": "WEqzdO8dbo5lGexl1LacEMjXnYc",
     "category": "友商动态",
     "title": "友商动态2025年12月第二周",
     "period": "2025-12-22",
     "publishedAt": "2025-12-22",
     "url": "https://my.feishu.cn/docx/WEqzdO8dbo5lGexl1LacEMjXnYc#doxcn6y82imwt0Kh0HSGXuMFiPb",
+    "summary": "已从飞书 Aily 同步，点击查看完整报告。",
+    "updatedAt": "2025-12-22"
+  },
+  {
+    "id": "C3GldRWq7oZprBxvXUzcxTzhnTb",
+    "category": "电信运营商集中化信息更新",
+    "title": "电信运营商集中化全景分析",
+    "period": "2025-12-22",
+    "publishedAt": "2025-12-22",
+    "url": "https://my.feishu.cn/docx/C3GldRWq7oZprBxvXUzcxTzhnTb",
     "summary": "已从飞书 Aily 同步，点击查看完整报告。",
     "updatedAt": "2025-12-22"
   },
