@@ -74,11 +74,12 @@ function renderReader() {
   if (!report) return;
   const displayTitle = report.title.replace(/^\d{4}年/, "");
   const insights = report.insights || ["已纳入完整历史归档，可通过飞书查看该周的原始报告。", "切换报告类别或发布时间，即可对照浏览同一主题的连续更新。"];
+  const insightLabel = report.category === "友商动态" ? "各公司关键信号" : "三条关键信号";
   reader.innerHTML = `
     <div class="reader-meta"><span class="tag">${report.category}</span><span>发布于 ${report.publishedAt.replaceAll("-", ".")}</span></div>
     <h2>${displayTitle}</h2>
     <p class="summary">${report.summary}</p>
-    <p class="section-label">三条关键信号</p>
+    <p class="section-label">${insightLabel}</p>
     <div class="insights">${insights.map((insight, index) => `<div class="insight"><span class="insight-index">0${index + 1}</span><span>${insight}</span></div>`).join("")}</div>
     <div class="reader-actions"><a class="primary-action" href="${report.url}" target="_blank" rel="noreferrer">打开飞书完整报告 ↗</a></div>`;
 }
