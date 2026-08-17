@@ -21,6 +21,16 @@ window.REPORTS =
     "summary": "已从飞书豆包工作伙伴同步，点击查看完整报告。"
   },
   {
+    "id": "QDNKd1xi7oH7C9xkrfQc9p7Nnip",
+    "category": "电信行业报告",
+    "title": "电信运营商行业报告｜2026年8月10日—8月16日",
+    "period": "2026-08-17",
+    "publishedAt": "2026-08-17",
+    "updatedAt": "2026-08-17T10:27:28+08:00",
+    "url": "https://my.feishu.cn/docx/QDNKd1xi7oH7C9xkrfQc9p7Nnip",
+    "summary": "已从飞书豆包工作伙伴同步，点击查看完整报告。"
+  },
+  {
     "id": "NK0GdUsVkohdXHxXxzsc6KxPneQ",
     "category": "AI行业周刊",
     "title": "AI行业周刊（2026年8月10日—8月16日）",
